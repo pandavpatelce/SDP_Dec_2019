@@ -33,3 +33,5 @@ Come up with rough database design on paper
 Come up with rough UI design
 Update github repo on this doc
 put a date against each core functionalities
+
+link of the repository: https://github.com/MEETcharola/Projects
