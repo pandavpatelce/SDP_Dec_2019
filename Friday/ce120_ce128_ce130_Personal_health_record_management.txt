@@ -3,7 +3,7 @@ CE128: Sodhaparmar Nihar
 CE130: Surati Ramya
 
 Project title: Personal health record management (Android app)
-Github repo: 
+Github repo: https://github.com/divyashah3899/phrm
 
 Core functionalities:
 Signup and login - P0
