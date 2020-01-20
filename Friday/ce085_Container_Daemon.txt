@@ -1,7 +1,7 @@
 CE085: Utsav Parmar
 
 Project title: Container Daemon
-Repo link: 
+Repo link: https://github.com/utsav00/Container-Daemon
 
 Core functionalities: 
 Run multiple instances virtually on the same machine simultaneously.
@@ -17,3 +17,6 @@ Expecting update in terms of project code by next week.
 03/01/20 update:
 Expecting some update next week.
 Update repo link here
+
+17/01/20 update:
+Expecting considerable update next week.
