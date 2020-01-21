@@ -5,7 +5,23 @@ Project title: Hindrance avoiding robo car (+ voice recognition)
 Github repo: 
 
 Core priorities:
+Hardware Requirements-- 
+ 1. Arduino Mega 
+ 2. Male and Female wires
+ 3. Micro Servo Motor
+ 4. Wheels(4)
+ 5. Ultrasonic Distance Measuring Sensor
+ 6. Motor Driver Shield
+ 7. Gear Motor (4)
+ 8. Acrylic Sheet
+ 9. 18650 Li-on Batteries (2)
+ 10. Battery Holders (2)
+ 11. DC power Switches 
 
+ Software Requirements -- 
+ 1. Arduino IDE 
+ 2. Adafruit Motor Shield Library
+ 3. Arduino New Ping Library
 
 update 01/01/20
 Absent for last two labs
