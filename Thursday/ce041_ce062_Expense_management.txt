@@ -6,8 +6,8 @@ Github repo: https://github.com/smithapani/xyz.git
 
 Core functionalities:
 User should be able to signup and login - P0 - 17/1/2020
-User should be able to add categories of Expenses - P0 - 6/02/2020
 User should be able to enter the Expense - P0 - 30/01/2020
+User should be able to add categories of Expenses - P0 - 6/02/2020
 User should be able to see expense history - P0  20/02/2020
 User should be able to see category wise expense reports for month/year - P0 -20/02/2020
 User should be able to see category wise expense reports for custom time period - P1 -27/03/2020
