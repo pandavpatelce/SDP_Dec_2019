@@ -47,3 +47,7 @@ On track. Nice progress!!!
 24/01/20 update:
 Actually review each other's code via pull request before merging it.
 Nice progress!!
+
+01/02/20 update:
+On track.
+Good use of github :)

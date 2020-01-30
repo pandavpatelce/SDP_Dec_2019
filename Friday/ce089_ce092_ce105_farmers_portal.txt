@@ -52,3 +52,7 @@ Lagging behind according to commitment. Need to push yourselves little more.
 Try to finish the feature (polishing).
 Push your code to github frequently via pull request. - VERY VERY VERY IMPORTANT
 Review each other's code via pull request before merging it.
+
+01/02/20 update:
+Some polishing is required, on track otherwise.
+Will be on track in next to next week.

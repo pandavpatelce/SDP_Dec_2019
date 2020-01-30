@@ -45,3 +45,6 @@ Push your code to github frequently via pull request. - VERY VERY VERY IMPORTANT
 Review each other's code via pull request before merging it.
 Lagging little behind, compared to commitments.
 On track to be on track next week.
+
+01/02/20 update:
+Nice progress!!

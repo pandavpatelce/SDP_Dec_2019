@@ -46,3 +46,6 @@ On track. Need to work hard for next week.
 Push your code to github frequently via pull request. - VERY VERY VERY IMPORTANT
 Review each other's code via pull request before merging it.
 Lagging on work for the current week. Need to work hard for next week.
+
+01/02/20 update:
+Nice progress!!!
