@@ -3,7 +3,7 @@ CE128: Sodhaparmar Nihar
 CE130: Surati Ramya
 
 Project title: Personal health record management (Android app)
-Github repo: 
+Github repo: https://github.com/divyashah3899/phrm
 
 Core functionalities:
 Signup and login - P0 [20/12/2019]
@@ -31,3 +31,14 @@ Nice progress!!
 Signup and login have been tested
 By next week show rough database schema
 Update core functionalities to reflect scope decided based on UI
+
+17/01/20 update:
+Push your code to github frequently via pull request. - VERY VERY IMPORTANT
+Work according to priority
+Nice progress!!
+On track. Need to work hard for the next week.
+
+24/01/20 update:
+Push your code to github frequently via pull request. - VERY VERY IMPORTANT
+Will show me pending changes for this week by Tuesday
+Need to work hard for this week to be on track.
