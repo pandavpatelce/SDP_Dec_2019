@@ -6,11 +6,11 @@ Project title: File manager for android device
 Github repo: https://github.com/Hardik0307/File_Explorer
 
 High level stories:
-0. It should provide a way to explore all files on device and memory card. - P0
-1. App should provide file related CRUD operations on File and Folder. - P0
-2. User should be able to see categorywise files. (e.g. audio, documents, video...)
-3. Suggesting user to remove duplicate files. - Its not a P0, it's not P2
-4. User can search files/folders by name - P1
+0. It should provide a way to explore all files on device and memory card. - P0 [31/12/2019]
+1. App should provide file related CRUD operations on File and Folder. - P0 [01/01/2020]
+2. User should be able to see categorywise files. (e.g. audio, documents, video...) [Target - 23-24/01/2019]
+3. Suggesting user to remove duplicate files. - Its not a P0, it's not P2 [Target - 06/02/2019]
+4. User can search files/folders by name - P1 [15/01/2019]
 
 
 Progress - 19/12/19
@@ -22,3 +22,16 @@ Update 27/12/19
 Have decided to use flutter and dart
 Nice progress!!!
 Put a date against each core functionality
+
+Update 01/01/20
+Nice progress!!
+Start doing code reviews for each other's code.
+Put a date against each core functionality - pending from last week
+
+update 16/01/20
+Nice progress!!! On track.
+
+Update 23/01/2020
+Explore if magic number can be user to classify files rather than file extension
+On track otherwise!
+Make sure you do code reviews before approving other's code.

@@ -3,31 +3,47 @@ CE144: Vekariya Shubham
 CE146: Nemish Zalavadiya
 
 Project title: Online Parking System
+Github repo: https://github.com/nemishzalavadiya/OnlineParkingSystem
 
 Core functionalities:
 Administrator:
-Administrator should be able to verify land entries by landlord. - P0
+Administrator should be able to verify land entries by landlord. - P0 [ 17-01-2020 ]
 
 Landloard:
 Sign up and login. - P0
-Landloard should be able to add land details (location and other info) and rent details (duration, price and other info) of land to be rented. After this it will go for verification to admin. - P0
-Landlord should be able to modify/remove land/rent details. - P1
-login with Face detection. - P2
-Landlord should be able to view the history - P0
-Landlord can view the accumulated amount and get the payout - P0
+Landloard should be able to add land details (location and other info) and rent details (duration, price and other info) of land to be rented. After this it will go for verification to admin. - P0 [ 03-01-2020 ]
+Landlord should be able to modify/remove land/rent details. - P1 [ 17-01-2020 ]
+login with Face detection. - P2 [ - ]
+Landlord should be able to view the history - P0 [ 07-02-2020 ]
+Landlord can view the accumulated amount and get the payout - P0 [ 18-02-2020 ]
 
 User:
-Login and signup (profile creation) - P0
-User can modify profile info - P0
-Based on current location, user should be able to get near by parking lots information - P0
-User should be able to reserve a parking spot for a time interval. - P0
-User can reserve a parking spot in advance - P0
-Dummy payment gateway - P0
-User should be able to view usage history - P0
-User should be able to provide feedback - P1
+Login and signup (profile creation) - P0 
+User can modify profile info - P0 [ 17-01-2020 ]
+Based on current location, user should be able to get near by parking lots information - P0 [ 20-01-2020 ]
+User should be able to reserve a parking spot for a time interval. - P0 [ 24-01-2020 to 31-01-2020 ]
+User can reserve a parking spot in advance - P0 [ 04-02-2020 ]
+Dummy payment gateway - P0 [ 04-02-2020 ]
+User should be able to view usage history - P0 [ 04-02-2020 ]
+User should be able to provide feedback - P2 [ 23-02-2020 ]
 
 23/12/19 update:
 Rough UI on paper
 Rough database design
 Login and signup for user and landlord and login for admin
 Please complete above things before next lab.
+
+27/12/19 update:
+Nice progress!!
+Put dates against each core functionality before next week
+
+03/01/20 update:
+Are working on Django
+Nice progress!! On track
+
+17/01/20 update:
+On track. Nice progress!!!
+
+24/01/20 update:
+Actually review each other's code via pull request before merging it.
+Nice progress!!

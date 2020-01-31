@@ -3,16 +3,21 @@ CE031: Tanuj Doshi
 CE071: Bhavik Mojidra
 
 Project title: Healt card
+Github repo: https://github.com/aayush305/HealthCard
 It's SSIP project - result pending for accepted/rejected
 
 Core functionalities:
-1. Signup and login functionality for user, doctor and farmacist and medical labs. - verify doctor after signup.
-2. User should be able to update his/her previous health records.
-2.5. User should be able to see his/her medical timeline.
-3. Doctors should be able to see entire history of the patient.
-4. Doctor should be able to update the history of the patient.
-5. Farmacist should be able to see the prescriptions provided by the doctor.
-6. Medical labs should be able to  update the records
+1. Signup and login functionality for user, doctor and farmacist and medical labs. - verify doctor after signup. 20/02/2020
+    1.1 Signup and Login for user and doctor with manage profile. P0 23/01/2020
+    1.2 Signup and Login for farmacist and medical labs with manage profile. P1 13/02/2020
+    1.3 Verfication of Doctor, farmacist and medical labs.  P1 20/02/2020
+    1.4 Create HealthCard. P1 20/02/2020
+2. User should be able to update his/her previous health records. P0 06/02/2020
+    2.1. User should be able to see and insert his/her medical timeline. P0 30/01/2020
+3. Doctors should be able to see entire history of the patient. P0 06/02/2020
+4. Doctor should be able to update the history of the patient. P0 13/02/2020
+5. Farmacist should be able to see the prescriptions provided by the doctor. P1 13/02/2020
+6. Medical labs should be able to  update the records. P1 13/02/2020
 
 
 Update - 12/19/12
@@ -21,3 +26,20 @@ Email me - SRS and SSIP problem statement and come to see me before next lab so 
 
 Update 27/12/19
 All team mates were absent
+
+update 01/01/20
+All team mates 
+were absent
+
+Update 03/01/20
+Will update github repo, dates and priorities
+Will come tomorrow for showing database design
+
+update 16/01/20
+Will update github repo, dates and priorities - Pending from last week - MOST IMPORTANT
+
+Update 23/01/2020
+Will update github repo, dates and priorities - Pending from last to last week - MOST IMPORTANT
+Nice progress!!
+Figure out how to take doctor speciality from doctor and how to store it in database.
+Merge your code to master branch only through pull requests (not directly). Provide meaningful comments before approving code.
