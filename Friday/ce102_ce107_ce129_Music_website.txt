@@ -4,6 +4,7 @@ CE129: Sondarva Kumar
 
 Project title: Music website
 Github repo: https://github.com/DevendraMRaiyani/rythm
+             https://github.com/DevendraMRaiyani/rythm_admin
 
 Core functionalities:
 Admin
