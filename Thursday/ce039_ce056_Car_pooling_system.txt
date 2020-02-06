@@ -3,7 +3,7 @@ CE056: Dhaval Katariya
 
 
 Project title: Car pooling App (android)
-Github repo: https://github.com/ronak1904/carpoolingapp
+Github repo: https://github.com 11 minutes ago/ronak1904/carpoolingapp
 
 Core functionalities:
 1. signup and login for user. - P0
@@ -40,3 +40,7 @@ Nice progress!!
 On track.
 Use git properly and push your code to github frequently.
 Merge your code to master branch only through pull requests (not directly).
+
+Update 06/02/2020
+On track. Nice progress!!!
+Need to work on UI.

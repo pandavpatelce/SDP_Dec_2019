@@ -35,3 +35,6 @@ Update 23/01/2020
 Explore if magic number can be user to classify files rather than file extension
 On track otherwise!
 Make sure you do code reviews before approving other's code.
+
+Update 06/02/2020
+Current approach of finding duplicate based on type, name and size is not reliable. Use hash instead.

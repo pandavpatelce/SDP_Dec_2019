@@ -56,3 +56,6 @@ Use git properly and push your code to github frequently.
 Merge your code to master branch only through pull requests (not directly).
 Lagging behind per schedule.
 Need to work hard for next week to catch up.
+
+Update 06/02/2020
+Both team mates were absent.

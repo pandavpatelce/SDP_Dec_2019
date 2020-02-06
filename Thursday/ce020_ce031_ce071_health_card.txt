@@ -43,3 +43,6 @@ Will update github repo, dates and priorities - Pending from last to last week -
 Nice progress!!
 Figure out how to take doctor speciality from doctor and how to store it in database.
 Merge your code to master branch only through pull requests (not directly). Provide meaningful comments before approving code.
+
+Update 06/02/2020
+On track. Nice progress!!!

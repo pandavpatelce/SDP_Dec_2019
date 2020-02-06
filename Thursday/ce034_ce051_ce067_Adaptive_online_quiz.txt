@@ -41,3 +41,7 @@ Use git properly and push your code to github frequently.
 Merge your code to master branch only through pull requests (not directly).
 Partially on track!!
 Work hard next week to remain on track.
+
+Update 06/02/2020
+Poor use of github
+UI flow needs drastic improvement
