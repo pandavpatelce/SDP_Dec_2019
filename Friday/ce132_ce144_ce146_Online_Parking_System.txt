@@ -51,3 +51,7 @@ Nice progress!!
 01/02/20 update:
 On track.
 Good use of github :)
+
+07/02/20 update:
+On track
+Need to work on UI of admin side
