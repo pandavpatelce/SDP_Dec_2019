@@ -38,3 +38,6 @@ Make sure you do code reviews before approving other's code.
 
 Update 06/02/2020
 Current approach of finding duplicate based on type, name and size is not reliable. Use hash instead.
+
+update 27/02/20
+Working on automated test cases.

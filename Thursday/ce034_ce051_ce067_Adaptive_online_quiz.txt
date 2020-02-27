@@ -45,3 +45,6 @@ Work hard next week to remain on track.
 Update 06/02/2020
 Poor use of github
 UI flow needs drastic improvement
+
+update 27/02/20
+Need to update UI and feel factor of the website.

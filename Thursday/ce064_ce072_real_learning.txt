@@ -53,3 +53,7 @@ Merge your code to master branch only through pull requests (not directly).
 Update 06/02/2020
 Poor use of github
 Nice progress!!
+
+update 27/02/20
+Working on improving UI and last touches for improving usability
+Would work on automated testing as well
