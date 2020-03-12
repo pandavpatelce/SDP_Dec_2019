@@ -41,3 +41,7 @@ Current approach of finding duplicate based on type, name and size is not reliab
 
 update 27/02/20
 Working on automated test cases.
+
+update 12/03/20
+
+  Nice!

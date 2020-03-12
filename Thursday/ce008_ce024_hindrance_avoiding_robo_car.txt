@@ -34,3 +34,8 @@ Bluetooth is not connected.
 Showed that tyres are moving.
 Hindrance avoiding is working but did not demonstrate due to battery constraints.
 Will look into it once completed.
+
+update 12/03/20
+
+
+                  Nice!
