@@ -1,7 +1,7 @@
 CE008: Ayushi Walia
 CE024: Granthy Desai
 
-Project title: Hindrance avoiding robo car (+ voice recognition)
+Project title: Hindrance avoiding robo car (+ controlling car)
 Github repo: 
 
 Core priorities:
@@ -28,3 +28,14 @@ Assemble the hardware in next week and try to complete the move straight functio
 Update 06/02/2020
 Assembled the device. Haven't tested it yet.
 Will show first three priorities by today or will come tomorrow in recess to demonstrate that.
+
+update 27/02/20
+Bluetooth is not connected.
+Showed that tyres are moving.
+Hindrance avoiding is working but did not demonstrate due to battery constraints.
+Will look into it once completed.
+
+update 12/03/20
+
+
+                  Nice!

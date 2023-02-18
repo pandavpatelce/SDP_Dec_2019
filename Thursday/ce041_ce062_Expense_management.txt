@@ -51,3 +51,12 @@ Lagging little behind. Neet to do little more work next week to cope up.
 Update 06/02/2020
 No proper use of github.
 Lagging behind considerably.
+
+update 27/02/20
+Need to add summary to show categorywise expense
+Need to provide some way to export data to csv
+
+update 12/03/20
+
+
+            Nice!

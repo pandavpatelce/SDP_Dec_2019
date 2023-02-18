@@ -55,3 +55,7 @@ Good use of github :)
 07/02/20 update:
 On track
 Need to work on UI of admin side
+
+28/02/20 update:
+Nice progress!
+Nest step is polishing website and writing automated test cases.
